@@ -1,0 +1,9 @@
+data = {
+    "name": "Ahmed",
+    "age": 30,
+    "is_student": False,
+    "courses": ["Math", "Science"]
+}
+
+
+json_data  = '{"name": "Ahmed", "age": 30, "is_student": false, "courses": ["Math", "Science"]}'
